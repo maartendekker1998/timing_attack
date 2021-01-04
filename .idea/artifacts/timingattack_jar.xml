@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="timingattack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/timingattack_jar</output-path>
+    <root id="archive" name="timingattack.jar">
+      <element id="module-output" name="timingattack" />
+    </root>
+  </artifact>
+</component>
